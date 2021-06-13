@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2C71F374-6584-4FF6-AD2E-267874BBAF12"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBF3AC32-2E24-4913-A7B2-A385A212585E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlatstackIosTestApp/Modules/CountryInfo/CountryInfoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBF3AC32-2E24-4913-A7B2-A385A212585E - a31da7612e16e28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlatstackIosTestApp.CountryInfoController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlatstackIosTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psshmart/Desktop/everything/ios/FlatstackIosTestApp/FlatstackIosTestApp/Modules/CountryInfo/CountryInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "406">
+               </Location>
+               <Location
+                  uuid = "EBF3AC32-2E24-4913-A7B2-A385A212585E - a31da7612e16e28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlatstackIosTestApp.CountryInfoController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlatstackIosTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psshmart/Desktop/everything/ios/FlatstackIosTestApp/FlatstackIosTestApp/Modules/CountryInfo/CountryInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "550">
+               </Location>
+               <Location
+                  uuid = "EBF3AC32-2E24-4913-A7B2-A385A212585E - a31da7612e16e28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlatstackIosTestApp.CountryInfoController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlatstackIosTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psshmart/Desktop/everything/ios/FlatstackIosTestApp/FlatstackIosTestApp/Modules/CountryInfo/CountryInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1605">
+               </Location>
+               <Location
+                  uuid = "EBF3AC32-2E24-4913-A7B2-A385A212585E - a31da7612e16e28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlatstackIosTestApp.CountryInfoController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlatstackIosTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psshmart/Desktop/everything/ios/FlatstackIosTestApp/FlatstackIosTestApp/Modules/CountryInfo/CountryInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "3447">
+               </Location>
+               <Location
+                  uuid = "EBF3AC32-2E24-4913-A7B2-A385A212585E - a31da7612e16e28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlatstackIosTestApp.CountryInfoController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlatstackIosTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psshmart/Desktop/everything/ios/FlatstackIosTestApp/FlatstackIosTestApp/Modules/CountryInfo/CountryInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "5526">
+               </Location>
+               <Location
+                  uuid = "EBF3AC32-2E24-4913-A7B2-A385A212585E - a31da7612e16e28c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlatstackIosTestApp.CountryInfoController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "FlatstackIosTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/psshmart/Desktop/everything/ios/FlatstackIosTestApp/FlatstackIosTestApp/Modules/CountryInfo/CountryInfoController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "7368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D46A9605-24E9-4EA2-A6A0-B1435E1F3DFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlatstackIosTestApp/Modules/CountryInfo/CountryInfoController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
